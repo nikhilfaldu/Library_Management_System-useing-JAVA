@@ -151,22 +151,6 @@ java LibraryManagementSystem
 - **Concepts:** Classes, Objects, ArrayList, Loops, Conditional Statements, Methods, Scanner
 - **Type:** Console / Terminal based application
 
----
-
-## How to Push to GitHub
-
-**Step 1:** Create a new repository on GitHub (don't add README)
-
-**Step 2:** Open terminal in your project folder and run:
-```
-git init
-git add .
-git commit -m "Initial commit - Library Management System"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-git push -u origin main
-```
-
 Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name.
 
 ---
