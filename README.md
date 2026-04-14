@@ -151,6 +151,3 @@ java LibraryManagementSystem
 - **Concepts:** Classes, Objects, ArrayList, Loops, Conditional Statements, Methods, Scanner
 - **Type:** Console / Terminal based application
 
-Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name.
-
----
